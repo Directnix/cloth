@@ -1,0 +1,6 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="RoundText">
+    <output-path>$PROJECT_DIR$/out/artifacts/RoundText</output-path>
+    <root id="archive" name="RoundText.jar" />
+  </artifact>
+</component>
